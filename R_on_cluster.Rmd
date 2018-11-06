@@ -36,3 +36,5 @@ job-script written in `slurm` to run the R script `foo.R`. There are several opt
 # Put your code below this line
 R CMD BATCH --no-save --no-restore foo.R
 ```
+
+test
