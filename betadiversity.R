@@ -83,6 +83,9 @@ beta.pair.abund(rbind(A, B))
 # This situation can only be distinguished by beta bal!
 
 
+added more code!
+
+
 
 
 
