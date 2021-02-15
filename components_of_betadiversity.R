@@ -87,8 +87,3 @@ beta.pair.abund(rbind(A, B))
 # add more code
 # add something new.
 
-
-
-
-
-
